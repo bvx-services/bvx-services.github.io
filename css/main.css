@@ -64,12 +64,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #A7DA96;
+  background: #ff9900;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #A7DA96;
+  background: #ff9900;
 }
 img::selection {
   color: white;
@@ -301,7 +301,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #A7DA96;
+  color: #ff9900;
   /*text-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
 }
 
@@ -511,8 +511,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #A7DA96;
-  border: 1px solid #A7DA96;
+  background: #ff9900;
+  border: 1px solid #ff9900;
 }
 
 .pager {
