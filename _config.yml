@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://vxav.github.io"
+url: "http://bvx-services.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: vXav.fr
+title: BVX Services
 
 # Short description of your site
-description: Virtualization technologies - Xavier Avrillier
+description: IT Consultancy services
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Company: "aboutme"
   Contact: "contact"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -42,33 +42,31 @@ fb-img: "/img/avatar-icon-hd.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Xavier Avrillier
-  email: "contact@vxav.fr"
-  github: vxav    # eg. daattali
-  linkedin: in/avrillier  # eg. "pub/dean-attali/8/946/143"
-  twitter: xavieravrillier
+  email: "xavier@bvx-services.com"
+  github: bvx-services    # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
-  linkedin: true
+  linkedin: false
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "vxav.fr"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.bvx-services.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "vxav"
-comments: true
+#disqus: "vxav"
+comments: false
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-78770376-1"
+#google_analytics: "UA-78770376-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
