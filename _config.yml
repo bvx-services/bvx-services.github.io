@@ -23,7 +23,7 @@ description: IT Consultancy services
 
 # List of links in the navigation bar
 navbar-links:
-  Company: "aboutme"
+  #Company: "aboutme"
   Contact: "contact"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
