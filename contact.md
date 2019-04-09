@@ -1,10 +1,20 @@
 ---
 layout: page
 title: contact
-subtitle: Drop me an email in the form below or get my LinkedIn at the bottom of any page
+subtitle: Contact us using the form below and we will get in touch with you as soon as possible.
 ---
 
+BVX Services offers a range of IT consultancy services in various domains with an emphasis on customer satisfaction:
 
+- Virtualization in greenfield and brownfield environments
+- Backup solutions
+- Infrastructure automation
+- Antivirus and antimalware software
+- Microsoft architecture
+
+Our technology blog is a way to share some of our knowledge and help where we can.
+
+You can contact us to require our services by filling the form below.
 
 <form action="https://formspree.io/xavier.avrillier@gmail.com" method="POST">
 <center>
