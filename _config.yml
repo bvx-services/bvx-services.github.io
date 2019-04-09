@@ -1,4 +1,4 @@
-# --- General options --- #
+e# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -41,7 +41,7 @@ fb-img: "/img/avatar-icon-hd.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Xavier Avrillier
+  name: BVX Services
   email: "xavier@bvx-services.com"
   github: bvx-services    # eg. daattali
 
